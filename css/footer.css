@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Baloo+Bhai");
+.footer {
+  position: relative;
+  top: 90vh;
+  margin: 0;
+  padding: 0;
+  border-top: 3px solid whitesmoke;
+  text-align: center; }
+  .footer h1 {
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 40px; }
+  .footer h2 {
+    padding: 10px; }
+  .footer div {
+    transform: translateX(-2px); }
+    .footer div a {
+      margin-left: 10px; }
+      .footer div a .transition-icon {
+        display: inline-block;
+        border-radius: 100%;
+        background: rgba(0, 0, 0, 0.75);
+        text-align: center;
+        padding: 10px;
+        transition: all 0.2s;
+        font-size: 30px; }
+        .footer div a .transition-icon .icon {
+          text-align: center;
+          color: #ffffff;
+          position: relative;
+          height: 40px;
+          transform: translate(1px, 5px);
+          width: 40px; }
+
+.transition-icon:hover {
+  background-color: #0084FF !important;
+  transform: scale(1.1); }
+
+/*# sourceMappingURL=footer.css.map */
