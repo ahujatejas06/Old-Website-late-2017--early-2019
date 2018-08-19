@@ -10,7 +10,7 @@
 			<li>Graphic Designer</li>
 			<li>Drummer</li>
 			<li>Gamer</li>
-			<li>Developer</li>
+			<li>Member of the <b><a href = "https://www.byteclub.in/members">Byte Club</a></b></li>
 			<li>Developer</li>
 		</ul>
 
@@ -36,10 +36,31 @@
 		</ul>
 	</div>
 	<div class="school">
+        <span class = "fa fa-school" aria-hidden = "true"></i>
+    	<span>Studied at</span>
+		<span class = "sch"><a href = "http://www.jkps.org/">Jaspal Kaur Public School, Shalimar Bagh</a></span>
+        <br>
+        <span>Montessory to Class 4</span>
+        <br><br>
 		<span class = "fa fa-school" aria-hidden = "true"></i>
 		<span>Currently studying at</span>
-		<span class = "sch"><a href = "https://www.google.co.in/search?q=bal+bharati+public+school+pitampura&oq=bal+bharati+public+school+pitampura&aqs=chrome..69i57.7855j0j7&sourceid=chrome&ie=UTF-8">Bal Bharati Public School, Pitampura</a></span>
+		<span class = "sch"><a href = "http://bbpspp.balbharati.org/">Bal Bharati Public School, Pitampura</a></span>
+        <br>
+        <span>Class 4 to Class 10</span>
 	</div>
+	<content class="badges">
+		<div data-iframe-width="600" data-iframe-height="270" data-share-badge-id="fc73cc1c-6de9-48ab-bc53-7332d37c8cc1"></div>
+		  <script type="text/javascript">
+		    (function() {
+		      var s = document.createElement('script');
+		      s.type = 'text/javascript';
+		      s.async = true;
+		      s.src = '//cdn.youracclaim.com/assets/utilities/embed.js';
+		      var o = document.getElementsByTagName('script')[0];
+		      o.parentNode.insertBefore(s, o);
+		      })();
+		  </script>
+	</content>
 	</section>
 	<section class="softwares">
 		<h1>Software &nbsp; &nbsp; I &nbsp; &nbsp;use?</h1>
@@ -60,4 +81,4 @@
 			<li>iMovie</li>
 		</ul>
 	</section>
-	
+		

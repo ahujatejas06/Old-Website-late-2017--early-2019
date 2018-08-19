@@ -1,6 +1,7 @@
 section#about { z-index: 0; position: relative; top: 92vh; text-align: center; border-bottom: 2px solid whitesmoke; background: whitesmoke; width: 100%; }
 section#about ul { font-size: 25px; list-style: none; padding: 0 38px 0 38px; }
 section#about ul li { padding-top: 10px; }
+section#about ul li a {text-decoration:none; color:#000000;}
 section#about h1 { padding: 5vh 38px 0 38px; margin-bottom: 0; padding-bottom: 0; font-family: 'Monoton', cursive; font-size: 50px; text-transform: uppercase; display: block; }
 
 section#about > h1::after { background: #0084FF; height: 6px; bottom: 8px; display: block; position: relative; content: ""; width: 120px; left: 50%; margin-top: 20px; transform: translate(-50%, -50%); padding-bottom: 0; margin-bottom: 0; }
@@ -17,6 +18,8 @@ section.languages div ul.right::after { background: #0084FF; height: 6px; bottom
 section.languages h1, section.languages h2 { text-align: center; padding: 0 38px 0 38px; }
 section.languages h1 { font-family: 'Monoton',cursive; font-size: 40px; }
 section.languages h2 { font-size: 30px; }
+
+content.badges { display: flex; justify-content: center; margin-bottom: 90px; }
 
 div.school { width: 100%; margin: 0; padding: 0; position: relative; font-size: 40px; text-align: center; justify-content: center; color: #0084FF; }
 div.school span.fa { color: #0084FF; font-size: 40px; margin: 3px; }
